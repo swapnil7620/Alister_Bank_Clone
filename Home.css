@@ -1,0 +1,49 @@
+*{
+    max-width: 100%;
+    padding: 0%;
+    /* overflow-x: hidden; */
+    /* overflow: hidden; */
+} 
+#background-image1 {
+    background-image: url(Images/home-slide2.jpeg);
+    border: 1px solid black;
+    height: 430px;
+}
+
+
+#block1 {
+    border: 1px solid black;
+    height: 200px;
+}
+
+#footerimg {
+    background-color: rgb(136, 136, 160);
+}
+
+#background-image2 {
+    background-image: url(Images/img6.jpeg);
+    /* height: 350px; */
+    width: 100%;
+  
+}
+
+#background-image3{
+    background-image: url(Images/img3.jpeg);
+    height: 450px;
+    width: 100%;
+
+}
+#background-image5 {
+  background-image: url(Images/img15.jpeg);
+  
+    height: 320px;
+     width: 100%;
+ 
+}
+#background-image4 {
+  background-image: url(Images/img2.jpeg);
+    height: 300px;
+ 
+}
+
+

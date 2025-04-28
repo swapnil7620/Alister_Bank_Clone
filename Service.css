@@ -1,0 +1,12 @@
+
+#background-image1 {
+    background-image: url(Images/home-slide2.jpeg);
+    border: 1px solid black;
+    height: 430px;
+    /* width: 100%; */
+}
+
+#footerimg {
+    background-color: rgb(136, 136, 160);
+    margin: 0%;
+}

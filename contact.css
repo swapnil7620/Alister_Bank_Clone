@@ -1,0 +1,28 @@
+*{
+    max-width: 100%;
+    padding: 0%;
+    /* overflow-x: hidden; */
+    /* overflow: hidden; */
+} 
+body {
+  padding-top: 100px; 
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 120px;
+  }
+}
+ 
+ #background-image1 {
+    background-image: url(Images/home-slide2.jpeg);
+
+    border: 1px solid black;
+    height: 430px;
+    width: 100%;
+}
+
+#footerimg {
+    background-color: rgb(136, 136, 160);
+   width: 100%;
+}
